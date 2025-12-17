@@ -1,3 +1,4 @@
+```mermaid
 sequenceDiagram
     autonumber
     actor Customer as 🧑 Customer
